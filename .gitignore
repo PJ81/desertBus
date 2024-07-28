@@ -1,0 +1,5 @@
+dist/
+tools/
+.vscode/
+res/img/old
+.vscodecounter

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+    "lib": ["dom", "ESNext"],
+    "module": "ESNext",
+    "removeComments": true
+  }
+}
